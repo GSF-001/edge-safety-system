@@ -1,5 +1,5 @@
 ## 💫 Personal Safety Architecture
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/5bebafcd-b0c6-4d5f-beb5-0b25fea2bff2)
+![image](
 🌐 Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pN6gD6dR)
@@ -20,19 +20,19 @@ and **edge-to-backend coordination** for a non-intrusive safety system.
 - Minimal data exposure
 - Deterministic, explainable logic
 
+## Scope
+
+![image](https://github.com/GSF-001/edge-safety-system/blob/adfa25cd8ea4d6c610b68a64b97710631bd7b443/istockphoto-1193307437-612x612.jpg)
+[🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
+This is **not a production system**.  
+It is a **design reference** for architecture, logic flow, and decision models.Status
+Conceptual / Architectural reference.
+
 ## Repository Layout🗂️
 - `docs/`        — System documentation & design rationale
 - `algorithms/`  — Core detection & escalation logic
 - `pseudocode/`  — Readable reference implementations
 - `diagrams/`    — Sequence & flow visualizations
-
-## Scope
-
-![image](https://github.com/GSF-001/edge-safety-system/blob/adfa25cd8ea4d6c610b68a64b97710631bd7b443/istockphoto-1193307437-612x612.jpg)
-
-This is **not a production system**.  
-It is a **design reference** for architecture, logic flow, and decision models.Status
-Conceptual / Architectural reference.
 
 ## 📫Contact
 "If you like what I build and want to fuel the system… or just fuel my caffeine. ☕ No obligations. Only respect for code & curiosity.
