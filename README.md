@@ -41,8 +41,10 @@ Conceptual / Architectural reference.
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)  
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourusername)
 
-![image](https://github.com/GSF-001/edge-safety-system/blob/360a3b4aff4da9e42c6430d723537295c4a0eddc/file_00000000fa0c72069accd6a331011001-removebg-preview.png)
-                    
+  <p align="right">
+  <img src="https://github.com/GSF-001/edge-safety-system/blob/360a3b4aff4da9e42c6430d723537295c4a0eddc/file_00000000fa0c72069accd6a331011001-removebg-preview.png?raw=true" width="100"/>
+</p>
+      
        by ©Founder: Mikatoshi 
 
 •  Email:gsfvapps@gmail.com 
@@ -50,3 +52,22 @@ Conceptual / Architectural reference.
 •  GitHub:https://github.com/GSF-001  
 There is no roadmap.  
 Only iterations.🪙
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
