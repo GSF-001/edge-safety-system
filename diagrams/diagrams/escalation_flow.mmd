@@ -1,0 +1,4 @@
+flowchart TD
+  A[Event] --> B[User Alert]
+  B -->|Ack| C[Resolved]
+  B -->|Timeout| D[Escalate]
