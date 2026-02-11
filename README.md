@@ -1,5 +1,4 @@
-# 🧑🏻‍⚕️Personal Safety Architecture
-
+## 💫 Personal Safety Architecture
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/5bebafcd-b0c6-4d5f-beb5-0b25fea2bff2)
 🌐 Connect with Me
 
@@ -42,13 +41,13 @@ Conceptual / Architectural reference.
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)  
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourusername)
 
-©Founder: MIKASth
-![image](
+![image](https://github.com/GSF-001/edge-safety-system/blob/360a3b4aff4da9e42c6430d723537295c4a0eddc/file_00000000fa0c72069accd6a331011001-removebg-preview.png)
+                    
+          by ©Founder: MIKA.THS
 
 •  Email:gsfvapps@gmail.com 
 
 •  GitHub:https://github.com/GSF-001  
-
 There is no roadmap.  
 Only iterations.🪙
 
