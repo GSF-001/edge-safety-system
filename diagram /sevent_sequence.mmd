@@ -1,0 +1,5 @@
+sequenceDiagram
+  Device->>Edge: telemetry
+  Edge->>User: local alert
+  Edge->>Backend: encrypted event
+  Backend->>Contacts: notify
